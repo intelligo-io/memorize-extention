@@ -4570,10 +4570,10 @@ karma-coverage-istanbul-reporter@2.1.0:
     istanbul-api "^2.1.6"
     minimatch "^3.0.4"
 
-karma-jasmine-html-reporter@1.4.2:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/karma-jasmine-html-reporter/-/karma-jasmine-html-reporter-1.4.2.tgz#16d100fd701271192d27fd28ddc90b710ad36fff"
-  integrity sha512-7g0gPj8+9JepCNJR9WjDyQ2RkZ375jpdurYQyAYv8PorUCadepl8vrD6LmMqOGcM17cnrynBawQYZHaumgDjBw==
+karma-jasmine-html-reporter@1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/karma-jasmine-html-reporter/-/karma-jasmine-html-reporter-1.6.0.tgz#586e17025a1b4128e9fba55d5f1e8921bfc3bc1e"
+  integrity sha512-ELO9yf0cNqpzaNLsfFgXd/wxZVYkE2+ECUwhMHUD4PZ17kcsPsYsVyjquiRqyMn2jkd2sHt0IeMyAyq1MC23Fw==
 
 karma-jasmine@1.1.2:
   version "1.1.2"
